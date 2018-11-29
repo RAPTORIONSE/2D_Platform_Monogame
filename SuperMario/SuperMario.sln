@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28010.2050
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SuperMario", "SuperMario\SuperMario.csproj", "{A618DCC0-2E8F-40B2-9C36-C51F8D1D8A3C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x86 = Debug|x86
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A618DCC0-2E8F-40B2-9C36-C51F8D1D8A3C}.Debug|x86.ActiveCfg = Debug|x86
+		{A618DCC0-2E8F-40B2-9C36-C51F8D1D8A3C}.Debug|x86.Build.0 = Debug|x86
+		{A618DCC0-2E8F-40B2-9C36-C51F8D1D8A3C}.Release|x86.ActiveCfg = Release|x86
+		{A618DCC0-2E8F-40B2-9C36-C51F8D1D8A3C}.Release|x86.Build.0 = Release|x86
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {BBC624B5-2E4C-4C4F-B06B-AEA616135574}
+	EndGlobalSection
+EndGlobal
